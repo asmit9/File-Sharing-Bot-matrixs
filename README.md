@@ -54,7 +54,7 @@ I Guess This Will Be Usefull For Many People.....😇.
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [blank](https://t.me/blank_blankx) and his [ultroidofficial](https://t.me/ultroidofficial) for this Video**
+**Thanks to [Team](https://t.me/ultroidxTeam) and his [ultroidofficial](https://t.me/ultroid_official) for this Video**
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
