@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@ultroid_support ](https://www.telegram.dog/ultroid_OFFICIAL)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@ultroid_official ](https://www.telegram.dog/ultroid_OFFICIAL)**
 
 **Make sure to see [contributing.md](https://github.com/7thofficial/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
